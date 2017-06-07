@@ -1,4 +1,4 @@
-# Calculator class performs arithmetic on two numbers
+# Understands performing arithmetic on two numbers
 class Calculator
   def add(number_1, number_2)
     number_1 + number_2
